@@ -1,4 +1,48 @@
 {
 	"year": 0,
 	"season": 0
+	"categories": [
+		{
+			"title": "cryptography",
+			"problems": [
+				"0": "example"
+			]
+		},
+		{
+			"title": "exploitation",
+			"problems": [
+				"0": "example"
+			]
+		},
+		{
+			"title": "forensic",
+			"problems": [
+				"0": "example"
+			]
+		},
+		{
+			"title": "network",
+			"problems": [
+				"0": "example"
+			]
+		},
+		{
+			"title": "reverseengineering",
+			"problems": [
+				"0": "example"
+			]
+		},
+		{
+			"title": "web",
+			"problems": [
+				"0": "example"
+			]
+		},
+		{
+			"title": "miscellaneous",
+			"problems": [
+				"0": "example"
+			]
+		}
+	]
 }
