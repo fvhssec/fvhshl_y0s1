@@ -1,10 +1,8 @@
 {
 	"year": 0,
 	"season": 0,
-	"categories":
-	[
-		{
-			"category": "cryptography",
+	"categories":{
+		"cryptography": {
 			"problems":
 			[
 				{
@@ -14,8 +12,7 @@
 				}
 			]
 		},
-		{
-			"title": "exploitation",
+		"exploitation": {
 			"category":
 			[
 				{
@@ -25,8 +22,7 @@
 				}
 			]
 		},
-		{
-			"title": "forensic",
+		"forensic": {
 			"category":
 			[
 				{
@@ -36,8 +32,7 @@
 				}
 			]
 		},
-		{
-			"title": "network",
+		"network": {
 			"category":
 			[
 				{
@@ -47,8 +42,7 @@
 				}
 			]
 		},
-		{
-			"title": "reverse_engineering",
+		"reverse_engineering": {
 			"category":
 			[
 				{
@@ -58,8 +52,7 @@
 				}
 			]
 		},
-		{
-			"title": "web",
+		"web": {
 			"category":
 			[
 				{
@@ -69,8 +62,7 @@
 				}
 			]
 		},
-		{
-			"title": "miscellaneous",
+		"miscellaneous": {
 			"category":
 			[
 				{
@@ -80,5 +72,5 @@
 				}
 			]
 		}
-	]
+	}
 }
