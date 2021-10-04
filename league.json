@@ -3,74 +3,67 @@
 	"season": 0,
 	"category":{
 		"cryptography": {
-			"problems":
-			[
-				{
-					"id": 0,
+			"problem":
+			{
+				"0": {
 					"name": "example",
 					"point": 10
 				}
-			]
+			}
 		},
 		"exploitation": {
-			"category":
-			[
-				{
-					"id": 0,
+			"problem":
+			{
+				"0": {
 					"name": "example",
 					"point": 10
 				}
-			]
+			}
 		},
 		"forensic": {
-			"category":
-			[
-				{
-					"id": 0,
+			"problem":
+			{
+				"0": {
 					"name": "example",
 					"point": 10
 				}
-			]
+			}
 		},
 		"network": {
-			"category":
-			[
-				{
-					"id": 0,
+			"problem":
+			{
+				"0": {
 					"name": "example",
 					"point": 10
 				}
-			]
+			}
 		},
 		"reverse_engineering": {
-			"category":
-			[
-				{
-					"id": 0,
+			"problem":
+			{
+				"0": {
 					"name": "example",
 					"point": 10
 				}
-			]
+			}
 		},
 		"web": {
-			"category":
-			[
-				{
-					"id": 0,
+			"problem":
+			{
+				"0": {
 					"name": "example",
 					"point": 10
 				}
-			]
+			}
 		},
 		"miscellaneous": {
-			"category":
-			[
-				{
-					"id": 0,
+			"problem":
+			{
+				"0": {
 					"name": "example",
 					"point": 10
 				}
-			]
+			}
 		}
 	}
 }
