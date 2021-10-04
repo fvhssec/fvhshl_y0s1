@@ -4,7 +4,7 @@
 	"categories":
 	[
 		{
-			"title": "cryptography",
+			"category": "cryptography",
 			"problems":
 			[
 				{
@@ -16,7 +16,7 @@
 		},
 		{
 			"title": "exploitation",
-			"problems":
+			"category":
 			[
 				{
 					"id": 0,
@@ -27,7 +27,7 @@
 		},
 		{
 			"title": "forensic",
-			"problems":
+			"category":
 			[
 				{
 					"id": 0,
@@ -38,7 +38,7 @@
 		},
 		{
 			"title": "network",
-			"problems":
+			"category":
 			[
 				{
 					"id": 0,
@@ -49,7 +49,7 @@
 		},
 		{
 			"title": "reverse_engineering",
-			"problems":
+			"category":
 			[
 				{
 					"id": 0,
@@ -60,7 +60,7 @@
 		},
 		{
 			"title": "web",
-			"problems":
+			"category":
 			[
 				{
 					"id": 0,
@@ -71,7 +71,7 @@
 		},
 		{
 			"title": "miscellaneous",
-			"problems":
+			"category":
 			[
 				{
 					"id": 0,
