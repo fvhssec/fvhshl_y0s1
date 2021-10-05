@@ -2,75 +2,54 @@
 	"year": 0,
 	"season": 0,
 	"category":{
-		"cryptography": {
-			"problem":
-			[
-				{
-					"id": 0,
-					"title": "example",
-					"point": 10
-				}
-			]
-		},
-		"exploitation": {
-			"problem":
-			[
-				{
-					"id": 0,
-					"title": "example",
-					"point": 10
-				}
-			]
-		},
-		"forensic": {
-			"problem":
-			[
-				{
-					"id": 0,
-					"title": "example",
-					"point": 10
-				}
-			]
-		},
-		"network": {
-			"problem":
-			[
-				{
-					"id": 0,
-					"title": "example",
-					"point": 10
-				}
-			]
-		},
-		"reverse_engineering": {
-			"problem":
-			[
-				{
-					"id": 0,
-					"title": "example",
-					"point": 10
-				}
-			]
-		},
-		"web": {
-			"problem":
-			[
-				{
-					"id": 0,
-					"title": "example",
-					"point": 10
-				}
-			]
-		},
-		"miscellaneous": {
-			"problem":
-			[
-				{
-					"id": 0,
-					"title": "example",
-					"point": 10
-				}
-			]
-		}
+		"cryptography": [
+			{
+				"id": 0,
+				"title": "example",
+				"point": 10
+			}
+		],
+		"exploitation": [
+			{
+				"id": 0,
+				"title": "example",
+				"point": 10
+			}
+		],
+		"forensic": [
+			{
+				"id": 0,
+				"title": "example",
+				"point": 10
+			}
+		],
+		"network": [
+			{
+				"id": 0,
+				"title": "example",
+				"point": 10
+			}
+		],
+		"reverse_engineering": [
+			{
+				"id": 0,
+				"title": "example",
+				"point": 10
+			}
+		],
+		"web": [
+			{
+				"id": 0,
+				"title": "example",
+				"point": 10
+			}
+		],
+		"miscellaneous": [
+			{
+				"id": 0,
+				"title": "example",
+				"point": 10
+			}
+		]
 	}
 }
