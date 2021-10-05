@@ -4,66 +4,73 @@
 	"category":{
 		"cryptography": {
 			"problem":
-			{
-				"0": {
+			[
+				{
+					"id": 0,
 					"title": "example",
 					"point": 10
 				}
-			}
+			]
 		},
 		"exploitation": {
 			"problem":
-			{
-				"0": {
+			[
+				{
+					"id": 0,
 					"title": "example",
 					"point": 10
 				}
-			}
+			]
 		},
 		"forensic": {
 			"problem":
-			{
-				"0": {
+			[
+				{
+					"id": 0,
 					"title": "example",
 					"point": 10
 				}
-			}
+			]
 		},
 		"network": {
 			"problem":
-			{
-				"0": {
+			[
+				{
+					"id": 0,
 					"title": "example",
 					"point": 10
 				}
-			}
+			]
 		},
 		"reverse_engineering": {
 			"problem":
-			{
-				"0": {
+			[
+				{
+					"id": 0,
 					"title": "example",
 					"point": 10
 				}
-			}
+			]
 		},
 		"web": {
 			"problem":
-			{
-				"0": {
+			[
+				{
+					"id": 0,
 					"title": "example",
 					"point": 10
 				}
-			}
+			]
 		},
 		"miscellaneous": {
 			"problem":
-			{
-				"0": {
+			[
+				{
+					"id": 0,
 					"title": "example",
 					"point": 10
 				}
-			}
+			]
 		}
 	}
 }
