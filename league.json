@@ -6,49 +6,49 @@
 			{
 				"id": 0,
 				"title": "example",
-				"point": 10
+				"pt": 10
 			}
 		],
 		"exploitation": [
 			{
 				"id": 0,
 				"title": "example",
-				"point": 10
+				"pt": 10
 			}
 		],
 		"forensic": [
 			{
 				"id": 0,
 				"title": "example",
-				"point": 10
+				"pt": 10
 			}
 		],
 		"network": [
 			{
 				"id": 0,
 				"title": "example",
-				"point": 10
+				"pt": 10
 			}
 		],
 		"reverse_engineering": [
 			{
 				"id": 0,
 				"title": "example",
-				"point": 10
+				"pt": 10
 			}
 		],
 		"web": [
 			{
 				"id": 0,
 				"title": "example",
-				"point": 10
+				"pt": 10
 			}
 		],
 		"miscellaneous": [
 			{
 				"id": 0,
 				"title": "example",
-				"point": 10
+				"pt": 10
 			}
 		]
 	}
