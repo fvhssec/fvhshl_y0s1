@@ -1,5 +1,5 @@
 {
     "title": "Test Test Test",
-    "description": "This is a test problem\ntesting markdown\n [CLICK ME](https://www.google.com)",
+    "description": "This is a test problem\ntesting markdown\n[CLICK ME](https://www.google.com)",
     "flag": "fvhshl{mark_d0wn_t3St_C0mp1et3}"
 }
