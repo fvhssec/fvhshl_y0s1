@@ -1,5 +1,5 @@
 {
 	"title": "Forensic Example Problem",
 	"description": "This is example forensic problem.",
-	"flag": "fvhshl{forensic_example_flag}"
+	"flag": "forensic_example_flag"
 }

@@ -1,5 +1,5 @@
 {
 	"title": "Network Example Problem",
 	"description": "This is example network problem.",
-	"flag": "fvhshl{network_example_flag}"
+	"flag": "network_example_flag"
 }
