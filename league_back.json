@@ -1,69 +1,91 @@
 {
 	"year": 0,
-	"season": 1,
+	"season": 0,
 	"category": {
 		"cryptography": {
 			"symbol": "🔑",
-			"problem": {
-				"0": {
+			"problem": [
+				{
+					"id": 0,
 					"name": "example",
 					"pt": 10
+				},
+				{
+					"id": 1,
+					"name": "test",
+					"pt": 20
 				}
-			}
+			]
 		},
 		"exploitation": {
 			"symbol": "⚡",
-			"problem": {
-				"0": {
+			"problem": [
+				{
+					"id": 0,
 					"name": "example",
 					"pt": 10
 				}
-			}
+			]
 		},
 		"forensic": {
 			"symbol": "🔎",
-			"problem": {
-				"0": {
+			"problem": [
+				{
+					"id": 0,
 					"name": "example",
 					"pt": 10
+				},
+				{
+					"id": 32,
+					"name": "attach",
+					"pt": 120
 				}
-			}
+			]
 		},
 		"network": {
 			"symbol": "🌐",
-			"problem": {
-				"0": {
+			"problem": [
+				{
+					"id": 0,
 					"name": "example",
 					"pt": 10
 				}
-			}
+			]
 		},
-		"reverse_engineering": {
+		"reverse_enginnering": {
 			"symbol": "🛠️",
-			"problem": {
-				"0": {
+			"problem": [
+				{
+					"id": 0,
 					"name": "example",
 					"pt": 10
 				}
-			}
+			]
 		},
 		"web": {
 			"symbol": "🕸️",
-			"problem": {
-				"0": {
+			"problem": [
+				{
+					"id": 0,
 					"name": "example",
 					"pt": 10
 				}
-			}
+			]
 		},
 		"miscellaneous": {
 			"symbol": "⌨️",
-			"problem": {
-				"0": {
+			"problem": [
+				{
+					"id": 0,
 					"name": "example",
 					"pt": 10
+				},
+				{
+					"id": 3,
+					"name": "markdown",
+					"pt": 30
 				}
-			}
+			]
 		}
 	}
 }
